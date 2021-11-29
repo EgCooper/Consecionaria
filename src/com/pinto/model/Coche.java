@@ -1,4 +1,4 @@
-package com.pinto;
+package com.pinto.model;
 
 public class Coche {
     private String Matricula;

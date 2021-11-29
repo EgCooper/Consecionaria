@@ -1,4 +1,4 @@
-package com.pinto;
+package com.pinto.model;
 
 public class Cliente {
     private String nif;
@@ -6,6 +6,10 @@ public class Cliente {
     private String ciudad;
     private String Direccion;
     private int Telefono;
+
+    public Cliente(){
+
+    }
 
     public Cliente(String nif, String nombre, String ciudad, String direccion, int telefono) {
         this.setNif(nif);

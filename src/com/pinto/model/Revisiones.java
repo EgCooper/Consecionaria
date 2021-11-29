@@ -1,4 +1,6 @@
-package com.pinto;
+package com.pinto.model;
+
+import com.pinto.model.Coche;
 
 public class Revisiones {
     private String Codigo;
